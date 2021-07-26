@@ -2,6 +2,7 @@
 
 <param ve-config 
        title="Humboldt guapo" 
+       subtitle="El naturalista por excelencia"
        author="Amara"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Alexander_von_Humboldt_and_Mother.jpg/1280px-Alexander_von_Humboldt_and_Mother.jpg" 
        layout="vertical">
