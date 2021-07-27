@@ -10,6 +10,7 @@ Friedrich Wilhelm Heinrich Alexander von Humboldt (14 September 1769 – 6 May 1
 <param ve-map center="Q27306" zoom="8" color="orange" prefer-geojson>
 
 Between 1799 and 1804, Humboldt travelled extensively in the Americas, exploring and describing them for the first time from a modern Western scientific point of view. His description of the journey was written up and published in several volumes over 21 years. Humboldt was one of the first people to propose that the lands bordering the Atlantic Ocean were once joined (South America and Africa in particular).
+<param image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Alexander_von_Humboldt_%28par_Gerard%29.jpg"">
 
 Humboldt resurrected the use of the word cosmos from the ancient Greek and assigned it to his multivolume treatise, Kosmos, in which he sought to unify diverse branches of scientific knowledge and culture. This important work also motivated a holistic perception of the universe as one interacting entity.[11] He was the first person to describe the phenomenon and cause of human-induced climate change, in 1800 and again in 1831, based on observations generated during his travels.
 
