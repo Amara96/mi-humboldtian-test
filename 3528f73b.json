@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "jjashad",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/4a51a6b834f68d65cc8b877c583cfc7b9295b5e2439d150d57d66b57081cfa1a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1864.153076171875,2078.588134765625,166.640625,99.984375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#85a4705d-6417-435f-8c64-d8350aa4c526"
+  }
+]
