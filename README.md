@@ -3,7 +3,7 @@
 <param ve-config 
        title="Humboldt guapo" 
        author="Amara"
-       banner="https://iiif.juncture-digital.org/banner?url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Alexander_von_Humboldt_and_Mother.jpg/1280px-Alexander_von_Humboldt_and_Mother.jpg&region=pct:20,20,80,20" 
+       banner="https://iiif.juncture-digital.org/banner?url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Alexander_von_Humboldt_and_Mother.jpg/1280px-Alexander_von_Humboldt_and_Mother.jpg" 
        layout="vertical">
 
 Friedrich Wilhelm Heinrich Alexander von Humboldt (14 September 1769 – 6 May 1859) was a German polymath, geographer, naturalist, explorer, and proponent of Romantic philosophy and science.[5] He was the younger brother of the Prussian minister, philosopher, and linguist Wilhelm von Humboldt (1767–1835).Humboldt's quantitative work on botanical [geography](https://www.hu-berlin.de/en) laid the foundation for the field of biogeography. Humboldt's advocacy of long-term systematic geophysical measurement laid the foundation for modern geomagnetic and meteorological monitoring[^ref1]. Synonym. <param ve-entity eid="Q1040689">
