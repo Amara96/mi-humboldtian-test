@@ -16,7 +16,15 @@ Between 1799 and 1804, <span data-click-image-zoomto="737,441,1646,1140">Humbold
        author="quién sabe">
 
 Humboldt resurrected the use of the word cosmos from the ancient Greek and assigned it to his multivolume treatise, Kosmos, in which he sought to unify diverse branches of scientific knowledge and culture. This important work also motivated a holistic perception of the universe as one interacting entity.[11] He was the first person to describe the phenomenon and cause of human-induced climate change, in 1800 and again in 1831, based on observations generated during his travels.
-<param ve-video id="https://youtu.be/lnSxn4tNyok">
+<param ve-map 
+       time-dimension
+       time-interval="1780/"
+       duration="P500Y"
+       basemap="Esri_WorldGrayCanvas"
+       max-zoom="4"
+       date-format="YYYY"
+       fps="4">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/Amara96/mi-humboldtian-test/main/prueba.json">
 
 ### References
 [^ref1]: holaaaaaaa
