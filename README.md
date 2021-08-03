@@ -24,7 +24,9 @@ Humboldt resurrected the use of the word cosmos from the ancient Greek and assig
        max-zoom="4"
        date-format="YYYY"
        fps="4">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/Amara96/mi-humboldtian-test/main/prueba2.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_amrica.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_seasia.json">
+
 
 ### References
 [^ref1]: holaaaaaaa
