@@ -11,17 +11,17 @@ Friedrich Wilhelm Heinrich Alexander von Humboldt (14 September 1769 – 6 May 1
 
 Between 1799 and 1804, <span data-click-image-zoomto="737,441,1646,1140">Humboldt</span> travelled extensively in the Americas, exploring and describing them for the first time from a modern Western scientific point of view. His description of the journey was written up and published in several volumes over 21 years. 
 <param ve-map 
+       zoom="2"
        time-dimension
-       time-interval="1780/"
-       duration="P500Y"
+       time-interval="-008000/"
+       duration="P10000Y"
        basemap="Esri_WorldGrayCanvas"
        max-zoom="4"
        date-format="YYYY"
        fps="4">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_america.json">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_seasia.json">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_middleast.json">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/map_africa.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/Amara96/mi-humboldtian-test/main/map_america.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/Amara96/mi-humboldtian-test/main/map_midleast.json">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/Amara96/mi-humboldtian-test/main/map_africa.json">
 
 Humboldt was one of the first people to propose that the <span data-click-image-zoomto="1195,2510,1647,1140">lands</span> bordering the Atlantic Ocean were once joined (South America and Africa in particular).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Alexander_von_Humboldt_%28par_Gerard%29.jpg"
