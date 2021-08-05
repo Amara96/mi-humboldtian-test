@@ -7,7 +7,7 @@
        layout="vertical">
 
 Friedrich Wilhelm Heinrich Alexander von Humboldt (14 September 1769 – 6 May 1859) was a German polymath, geographer, naturalist, explorer, and proponent of Romantic philosophy and science.[5] He was the younger brother of the Prussian minister, philosopher, and linguist Wilhelm von Humboldt (1767–1835).Humboldt's quantitative work on botanical [geography](https://www.hu-berlin.de/en) laid the foundation for the field of biogeography. Humboldt's advocacy of long-term systematic geophysical measurement laid the foundation for modern geomagnetic and meteorological monitoring[^ref1]. Synonym. <param ve-entity eid="Q1040689">
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/Amara96/mi-humboldtian-test/main/Book1_Tamarindus_2.tsv" center="Tamarindus indica L. (1753)">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/Amara96/mi-humboldtian-test/main/aversiestesi.tsv" center="Tamarindus indica L. (1753)">
 
 Between 1799 and 1804, <span data-click-image-zoomto="737,441,1646,1140">Humboldt</span> travelled extensively in the Americas, exploring and describing them for the first time from a modern Western scientific point of view. His description of the journey was written up and published in several volumes over 21 years. Humboldt was one of the first people to propose that the <span data-click-image-zoomto="1195,2510,1647,1140">lands</span> bordering the Atlantic Ocean were once joined (South America and Africa in particular).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Alexander_von_Humboldt_%28par_Gerard%29.jpg"
