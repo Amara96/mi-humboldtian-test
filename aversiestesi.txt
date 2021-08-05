@@ -1,0 +1,23 @@
+source	source.label	target	target.label	edge
+	Tamarindus occidentalis Gaertn. (1791)	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus occidentalis Gaertn. (1791)	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus umbrosa Salisb. (1796)	Q80235	Tamarindus indica L. (1753)	
+	Tamarindus umbrosa Salisb. (1796)	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus officinalis Hook. (1851) 	Q80235	Tamarindus indica L. (1753)	
+	Tamarindus officinalis Hook. (1851) 	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus somalensis Mattei (1908) 	Q80235	Tamarindus indica L. (1753)	
+	Tamarindus somalensis Mattei (1908) 	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus erythraeus Mattei (1908) 	Q80235	Tamarindus indica L. (1753)	
+	Tamarindus erythraeus Mattei (1908) 	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+Q72336898	Tamarind	Q80235	Tamarindus indica L. (1753)	common name
+Q72336898	Tamarind	Q502895	VERNACULARS	is a Tamarindus indica L. (1753) 
+	Tamarindo	Q80235	Tamarindus indica L. (1753)	common name
+	Tamarindo	Q502895	VERNACULARS	in Spain, Latin America, Madagascar and Brazil is a Tamarindus indica L. (1753)
+	Manhan	Q80235	Tamarindus indica L. (1753)	common name
+	Manhan	Q502895	VERNACULARS	in China is a Tamarindus indica L. (1753)
+	Amli	Q80235	Tamarindus indica L. (1753)	common name
+	Amli	Q502895	VERNACULARS	in Fiji is a Tamarindus indica L. (1753)
+	Makham	Q80235	Tamarindus indica L. (1753)	common name
+	Makham	Q502895	VERNACULARS	in Thailand is a Tamarindus indica L. (1753)
+	Mkwaju	Q80235	Tamarindus indica L. (1753)	common name
+	Mkwaju	Q502895	VERNACULARS	in Tanzania is a Tamarindus indica L. (1753)
